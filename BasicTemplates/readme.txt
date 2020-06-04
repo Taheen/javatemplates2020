@@ -1,0 +1,1 @@
+Basic Java templates (classes, short programs, etc.), tested and confirmed.

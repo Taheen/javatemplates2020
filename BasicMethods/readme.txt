@@ -1,0 +1,1 @@
+List of basic Java methods, tested and confirmed

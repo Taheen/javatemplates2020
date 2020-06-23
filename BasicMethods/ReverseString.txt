@@ -1,0 +1,12 @@
+ // reverse string
+    public static String task1(final String in) {
+
+        StringBuilder sb = new StringBuilder(in.length());
+
+        for(int i = in.length() - 1; i >= 0; i--) {
+            sb.append(in.charAt(i));
+        }
+
+        return sb.toString();
+
+    }

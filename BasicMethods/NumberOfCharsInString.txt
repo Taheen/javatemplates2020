@@ -1,0 +1,10 @@
+// counting number of given chars in string (target)
+    public static int task3(final String in, final char target) {
+        int numberOf = 0;
+        for (int i = 0; i < in.length(); i++){
+            if (in.charAt(i) == target) {
+                numberOf++;
+            }
+        }
+        return numberOf;
+    }
